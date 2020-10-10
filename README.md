@@ -1,7 +1,7 @@
 # React Native Weather App
 
 🌤
-My little weather app. V2
+My little weather app. V2\
 (This is v2 as v1 broke for reasons to be discovered, see link [here](https://github.com/JasonNelemans/rn-weather-app))
 
 ## Table of contents
